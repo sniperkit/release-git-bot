@@ -1,3 +1,6 @@
+// Sniperkit - 2018
+// Status: Analyzed
+
 // Package gitwrapper wraps around git command.
 //
 // Nothing in this package is thread safe.

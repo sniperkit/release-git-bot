@@ -1,3 +1,6 @@
+// Sniperkit - 2018
+// Status: Analyzed
+
 package main
 
 import (
@@ -7,8 +10,8 @@ import (
 
 	"github.com/blang/semver"
 	"github.com/google/go-github/github"
-	"github.com/menghanl/release-git-bot/ghclient"
-	"github.com/menghanl/release-git-bot/notes"
+	"github.com/sniperkit/snk.fork.release-git-bot/ghclient"
+	"github.com/sniperkit/snk.fork.release-git-bot/notes"
 
 	log "github.com/sirupsen/logrus"
 )

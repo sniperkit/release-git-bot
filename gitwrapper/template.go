@@ -1,3 +1,6 @@
+// Sniperkit - 2018
+// Status: Analyzed
+
 package gitwrapper
 
 import "github.com/alecthomas/template"

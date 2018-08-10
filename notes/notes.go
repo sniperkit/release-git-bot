@@ -1,3 +1,6 @@
+// Sniperkit - 2018
+// Status: Analyzed
+
 // Package notes defines the structs for release note and functions to generate
 // notes.
 package notes

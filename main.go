@@ -1,3 +1,6 @@
+// Sniperkit - 2018
+// Status: Analyzed
+
 package main
 
 import (
@@ -8,8 +11,8 @@ import (
 	"os"
 
 	"github.com/blang/semver"
-	"github.com/menghanl/release-git-bot/ghclient"
-	"github.com/menghanl/release-git-bot/gitwrapper"
+	"github.com/sniperkit/snk.fork.release-git-bot/ghclient"
+	"github.com/sniperkit/snk.fork.release-git-bot/gitwrapper"
 	"github.com/olekukonko/tablewriter"
 	"golang.org/x/oauth2"
 	survey "gopkg.in/AlecAivazis/survey.v1"
